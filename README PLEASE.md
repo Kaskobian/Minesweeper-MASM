@@ -16,7 +16,7 @@ Prerequisites
 Building
 --------
 
-Read the `Makefile` and set up the dependencies described above, then run `make` or `make -f <i>filename</i>` to build.
+Read the `Makefile` and set up the dependencies described above, then run `make` or `make -f <i>filename</i>` to build. (This is for Linux, I don't know how to on Windows)
 
 Game Controls
 -------------
