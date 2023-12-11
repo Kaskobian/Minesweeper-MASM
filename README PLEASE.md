@@ -16,7 +16,8 @@ Prerequisites
 Building
 --------
 
-Read the `Makefile` and set up the dependencies described above, then run `make` or `make -f <i>filename</i>` to build. (This is for Linux, I don't know how to on Windows)
+Read the `Makefile` and set up the dependencies described above, then run `make` or `make -f <i>filename</i>` to build. 
+(This is for Linux, I don't know how to on Windows)
 
 Game Controls
 -------------
@@ -30,4 +31,4 @@ Game Controls
 
 
 Have fun smashing dem mines
--Kaskobian/Artur
+- Kaskobian/Retr0/Artur
