@@ -1,0 +1,74 @@
+Application is running with Unicode string encoding.
+set_undo_stack_limit:  input string in the config :: invalid, limit set to 200 (INFO MESSAGE)
+ERROR - C:\Program Files\PTC\Creo 7.0.7.0\Common Files\text\config.pro, linenum 1 :  Keyword 'DRAWING_SETUP_FILE' is not valid.
+ERROR - C:\Program Files\PTC\Creo 7.0.7.0\Common Files\text\config.pro, linenum 2 :  Keyword 'FORMAT_SETUP_FILE' is not valid.
+ERROR - C:\Program Files\PTC\Creo 7.0.7.0\Common Files\text\config.pro, linenum 11:  Keyword 'TODAYS_DATE_NOTE_FORMAT' is not valid.
+ERROR - C:\Program Files\PTC\Creo 7.0.7.0\Common Files\text\config.pro, linenum 13:  Keyword 'WELD_UI_STANDARD' is not valid.
+pglSetStatus::   Pgl Session Initialize (INFO MESSAGE)
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+Valid file wpplibs.cmp with extension cmp was not found in any of CURRENT_DIR,PROJ_LANG_TEXT_DIR,PROJ_TEXT_DIR,CUSTOM_LOCALE_FONT_DIR,PRO_LANG_TEXT_DIR,PRO_TEXT_DIR,MACHINE_LANG_TEXT_DIR,MACHINE_TEXT_DIR,PRO_FONT_DIR
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+Pro/TOOLKIT registry file C:\Program Files\Siemens\17.04.007-R8\STAR-CAD17.04.007\STAR-Creo\win64\STAR-Creo7\protk.dat: invalid entry "StarCreo7.dll" ending at line 7.
+Pro/TOOLKIT registry file C:\Program Files\ANSYS Inc\v231\aisol\CADIntegration\ProE\ProEPages\config\WBPlugInPE.dat: invalid entry "WB231PluginProWF" ending at line 8.
+Pro/TOOLKIT registry file C:\Program Files\ANSYS Inc\v231\aisol\CADIntegration\ProE\ProEPages\config\WBPlugInPE.dat: invalid entry "ac4pro231dll" ending at line 20.
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdDwgTblFromGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdCEFltFormatsGallery' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'construction_mode_large' is not valid ('32x32') in short resource 'procmdeditgeomconstruct.res' (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Can't to find the command: ProCmdFaceted (INFO MESSAGE)
+ProCmdSelBufferAttrSet():  Selection Buffer Attribute loaded 56 commands (INFO MESSAGE)
+GalleryBaseWdg::GalleryBaseWdg:  Activate command of 'ProCmdMankSelGalPostr' should be type uiCmdTypeNone (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'man_postures_apply.bif' is not valid ('32x32') in short resource 'procmdmankapplgalpostr.res' (INFO MESSAGE)
+creo_ZBFetcher::OnZbrowserServiceAvailable:  Signal tc_tag: ZBROWSER_AVAILABLE_TAG (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_solid_large' is not valid ('32x32') in short resource 'procmddmatoolextrudesolid.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_cut_large' is not valid ('32x32') in short resource 'procmddmatoolextrudecut.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'ff_surftool_large' is not valid ('32x32') in short resource 'procmddmatoolextrudesurf.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'ff_taper_large' is not valid ('32x32') in short resource 'procmddmatoolextrudetaper.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'ff_taper_large' is not valid ('32x32') in short resource 'procmddmaextrudetaper.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_solid_large' is not valid ('32x32') in short resource 'procmddmatoolrevolvesolid.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_cut_large' is not valid ('32x32') in short resource 'procmddmatoolrevolvecut.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'ff_surftool_large' is not valid ('32x32') in short resource 'procmddmatoolrevolvesurf.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_solid_large' is not valid ('32x32') in short resource 'procmddmatoolsweepsolid.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_cut_large' is not valid ('32x32') in short resource 'procmddmatoolsweepcut.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'ff_surftool_large' is not valid ('32x32') in short resource 'procmddmatoolsweepsurf.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'feat_patch_large.bif' is not valid ('32x32') in short resource 'procmddmatoolsolidify.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_solid_large' is not valid ('32x32') in short resource 'procmddmatoolsolidifys.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'extrev_cut_large' is not valid ('32x32') in short resource 'procmddmatoolsolidifyc.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'feat_extend.bif' is not valid ('19x16') in short resource 'procmddmatoolextend.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'recipe_linear_large.bif' is not valid ('32x32') in short resource 'procmddmatoolpattern1d.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'recipe_linear_linear_large.bif' is not valid ('32x32') in short resource 'procmddmatoolpattern2d.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'find_round_large' is not valid ('32x32') in short resource 'procmddmatoolrcgrnd.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'find_chamfer_large' is not valid ('32x32') in short resource 'procmddmatoolrcgchm.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'not_round_large' is not valid ('32x32') in short resource 'procmddmatoolunrcgrnd.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'not_chamfer_large' is not valid ('32x32') in short resource 'procmddmatoolunrcgchm.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'rmdt_csys_a.bif' is not valid ('32x32') in short resource 'procmddmatoolcsysori1ref.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'rmdt_csys_a.bif' is not valid ('32x32') in short resource 'procmddmatoolcsysori2ref.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'measure_summary_large.bif' is not valid ('32x32') in short resource 'procmddmatoolmeasure.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'analysis_prop_mass_large.bif' is not valid ('32x32') in short resource 'procmddmatoolmeasuremp.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'okay_large.bif' is not valid ('32x32') in short resource 'procmddmaokbuttoncomps.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'cancel_large.bif' is not valid ('32x32') in short resource 'procmddmacancelcomps.res' (INFO MESSAGE)
+UitGroupItem::initVertCells:  The maximum group height has been increased to 78 (INFO MESSAGE)
+ugc_check_version_dbtype:  file 67 != expected 7 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'start_session_large.bif' is not valid ('32x32') in short resource 'procmdstartexperiment.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'session_warning_events32x16' is not valid ('32x16') in short resource 'procmdinfonmgrlightdlg.res' (INFO MESSAGE)
+pglSetStatus::   PglWindowEndNoGraphics: Not in nographics mode. (INFO MESSAGE)
+
+ run mode = 2
+cadds5_link_app_path_name():  NuTCRACKER is not installed (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 7.0.7.0\Common Files\\x86e_win64\obj\SWToPro.exe accessible (INFO MESSAGE)
+check_exec_file_accessible_():  C:\Program Files\PTC\Creo 7.0.7.0\Common Files\\x86e_win64\obj\SeodxToPro.exe accessible (INFO MESSAGE)
+PFSTMakeTypeString:  no zip found (INFO MESSAGE)
+uit_get_visual_style_low:  Style is PTC Creo 4 (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  The size of image 'update_model_large.bif' is not valid ('32x32') in short resource 'procmdupdatepb.res' (INFO MESSAGE)
+uit_CmdUiLoadIfNeeded:  Can't find a resource ProCmdApplMenuDbgInfo. (INFO MESSAGE)
+AdbPage::buildSizeStateTable:  Can't build Size State Table for page 'page_Empty' (INFO MESSAGE)
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 7.0.7.0\Common Files\graphic-library\appearances\appearance.dmt
+pro_locate_colormap ()
+located color definition C:\Program Files\PTC\Creo 7.0.7.0\Common Files\graphic-library\appearances\global.dmt
+pro_locate_colormap ()
+located Default color definition C:\Program Files\PTC\Creo 7.0.7.0\Common Files\graphic-library\appearances\default.dmt
+creoapp_get_root_info:  no active workspace (INFO MESSAGE)
+creoapp_get_root_info:  no workspace for 0 (INFO MESSAGE)
+creoapp_get_root_info:  no roots? (INFO MESSAGE)
+pro_notification_remove:  failed to find func to remove (INFO MESSAGE)
